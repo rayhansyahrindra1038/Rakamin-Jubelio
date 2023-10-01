@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'byebug'
+gem 'capybara'
+gem 'capybara-screenshot'
+gem 'cucumber'
+gem 'data_magic', '~> 0.21'
+gem 'rspec'
+gem 'webdrivers'
+gem 'site_prism'
+gem 'site_prism-table'
+gem 'dotenv'
+gem 'selenium-webdriver'
